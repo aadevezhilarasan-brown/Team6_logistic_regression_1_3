@@ -1,4 +1,4 @@
-### Team Charter
+Team Charter
 
 | Field | Your team’s entry |
 |---|---|
